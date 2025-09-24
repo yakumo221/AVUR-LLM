@@ -5,7 +5,7 @@ We plan to release the training code after the paper is formally accepted.
 
 ## Installation
 
-Our framework integrates the Whisper and AV-HuBERT encoders with large language models (LLMs), supporting Automatic Speech Recognition (ASR), Visual Speech Recognition (VSR), and Audio-Visual Speech Recognition (AVSR). The source code and environment configuration instructions will be released upon the formal acceptance of the paper.
+Our framework integrates the Whisper and AV-HuBERT encoder with large language models (LLMs), supporting Automatic Speech Recognition (ASR), Visual Speech Recognition (VSR), and Audio-Visual Speech Recognition (AVSR). The source code and environment configuration instructions will be released upon the formal acceptance of the paper.
 
 ## Checkpoints
 
